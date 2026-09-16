@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab2_20202132</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="ir_al_contador">Ir al contador</string>
+    <string name="buscador_de_pel_culas">Buscador de películas</string>
+    <string name="buscar">Buscar</string>
+    <string name="comprobar_conexi_n_de_red">Comprobar conexión de red</string>
+    <string name="contador">Contador</string>
+    <string name="valor_actual">Valor actual</string>
+    <string name="cuenta_del_1_al_20">(cuenta del 1 al 20)</string>
+    <string name="iniciar_contador">Iniciar contador</string>
+    <string name="regresar">Regresar</string>
+    <string name="idpel_cula_imdb">idPelícula (IMDb)</string>
+</resources>
