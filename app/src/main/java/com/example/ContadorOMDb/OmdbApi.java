@@ -1,4 +1,4 @@
-package com.example.lab2_20202132;
+package com.example.ContadorOMDb;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

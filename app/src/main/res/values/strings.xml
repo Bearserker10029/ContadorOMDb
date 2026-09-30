@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab2_20202132</string>
+    <string name="app_name">ContadorOMDb</string>
     <string name="bienvenido">Bienvenido</string>
     <string name="ir_al_contador">Ir al contador</string>
     <string name="buscador_de_pel_culas">Buscador de películas</string>

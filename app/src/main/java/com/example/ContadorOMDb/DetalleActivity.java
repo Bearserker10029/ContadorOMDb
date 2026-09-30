@@ -1,10 +1,10 @@
-package com.example.lab2_20202132;
+package com.example.ContadorOMDb;
 
 import android.os.Bundle;
 import android.widget.Toast;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
-import com.example.lab2_20202132.databinding.ActivityDetalleBinding;
+import com.example.ContadorOMDb.databinding.ActivityDetalleBinding;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;

@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace 'com.example.lab2_20202132'
+    namespace 'com.example.ContadorOMDb'
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId "com.example.lab2_20202132"
+        applicationId "com.example.ContadorOMDb"
         minSdk 34
         targetSdk 37
         versionCode 1

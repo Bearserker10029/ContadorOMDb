@@ -1,4 +1,4 @@
-package com.example.lab2_20202132;
+package com.example.ContadorOMDb;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.lab2_20202132", appContext.getPackageName());
+        assertEquals("com.example.ContadorOMDb", appContext.getPackageName());
     }
 }

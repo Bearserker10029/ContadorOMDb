@@ -1,4 +1,4 @@
-package com.example.lab2_20202132;
+package com.example.ContadorOMDb;
 
 import org.junit.Test;
 

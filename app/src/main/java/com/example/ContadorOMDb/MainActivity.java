@@ -1,4 +1,4 @@
-package com.example.lab2_20202132;
+package com.example.ContadorOMDb;
 
 import android.content.Context;
 import android.content.Intent;
@@ -8,14 +8,9 @@ import android.net.NetworkCapabilities;
 import android.os.Bundle;
 import android.widget.Toast;
 
-import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 
-import com.example.lab2_20202132.databinding.ActivityMainBinding;
-import com.google.android.material.button.MaterialButton;
+import com.example.ContadorOMDb.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
